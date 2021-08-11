@@ -1,0 +1,22 @@
+{
+ "productos" : [ 
+    { 
+     "precio": 500,
+    "id": 1, 
+    "marca": "LG",
+    "thumbailUrl": "./img/Cel_Lg.png"
+ },
+ { 
+    "precio": 8000,
+   "id": 2, 
+   "marca": "Sony",
+   "thumbailUrl": "./img/Cel_Sony.png"
+},
+{ 
+    "precio": 8000,
+   "id": 3, 
+   "marca": "Samsung",
+   "thumbailUrl": "./img/Cel_Samsung.png"
+}
+ ]
+}
